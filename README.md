@@ -19,7 +19,7 @@ A production-ready **RESTful backend** for a Coffee Shop application, built with
 - [Build & Run](#build--run)
 - [Testing](#testing)
 - [Contributing](#contributing)
- 
+
 ---
 
 ## Overview
